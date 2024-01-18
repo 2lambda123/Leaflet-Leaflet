@@ -43,6 +43,10 @@ and push the limits of what's possible with online maps!
 
 [![CI](https://github.com/Leaflet/Leaflet/actions/workflows/main.yml/badge.svg)](https://github.com/Leaflet/Leaflet/actions/workflows/main.yml)
 
+## Running GitHub Actions Workflow
+
+To trigger the GitHub Actions workflow, push changes to the `main` branch or create a pull request. Additionally, the workflow can be manually triggered using the repository_dispatch event. The workflow logs can be found [here](https://github.com/Leaflet/Leaflet/actions/workflows/main.yml).
+
  [contributors]: https://github.com/Leaflet/Leaflet/graphs/contributors
  [features]: http://leafletjs.com/#features
  [plugins]: http://leafletjs.com/plugins.html
